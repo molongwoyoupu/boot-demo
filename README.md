@@ -1,0 +1,3 @@
+springboot快速构建模板项目
+封装了一些工具类和各种配置
+api文档使用swagger
