@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * redis
+ * http服务配置
  *
  * @author molong
  * @date 2021/9/6
